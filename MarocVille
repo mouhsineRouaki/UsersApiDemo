@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Casablanca",
+    "nameAr": "الدار البيضاء",
+    "region": "Casablanca-Settat",
+    "province": "Casablanca",
+    "population": 3359818,
+    "postalCode": "20000",
+    "latitude": 33.5731,
+    "longitude": -7.5898
+  },
+  {
+    "id": 2,
+    "name": "Rabat",
+    "nameAr": "الرباط",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "Rabat",
+    "population": 577827,
+    "postalCode": "10000",
+    "latitude": 34.0209,
+    "longitude": -6.8416
+  },
+  {
+    "id": 3,
+    "name": "Fès",
+    "nameAr": "فاس",
+    "region": "Fès-Meknès",
+    "province": "Fès",
+    "population": 1112072,
+    "postalCode": "30000",
+    "latitude": 34.0333,
+    "longitude": -5.0000
+  },
+  {
+    "id": 4,
+    "name": "Marrakech",
+    "nameAr": "مراكش",
+    "region": "Marrakech-Safi",
+    "province": "Marrakech",
+    "population": 928850,
+    "postalCode": "40000",
+    "latitude": 31.6295,
+    "longitude": -7.9811
+  },
+  {
+    "id": 5,
+    "name": "Tanger",
+    "nameAr": "طنجة",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "province": "Tanger-Assilah",
+    "population": 947952,
+    "postalCode": "90000",
+    "latitude": 35.7767,
+    "longitude": -5.8039
+  },
+  {
+    "id": 6,
+    "name": "Meknès",
+    "nameAr": "مكناس",
+    "region": "Fès-Meknès",
+    "province": "Meknès",
+    "population": 632079,
+    "postalCode": "50000",
+    "latitude": 33.8972,
+    "longitude": -5.5474
+  },
+  {
+    "id": 7,
+    "name": "Agadir",
+    "nameAr": "أكادير",
+    "region": "Souss-Massa",
+    "province": "Agadir-Ida-Ou-Tanane",
+    "population": 421844,
+    "postalCode": "80000",
+    "latitude": 30.4202,
+    "longitude": -9.5982
+  },
+  {
+    "id": 8,
+    "name": "Tétouan",
+    "nameAr": "تطوان",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "province": "Tétouan",
+    "population": 380787,
+    "postalCode": "93000",
+    "latitude": 35.5784,
+    "longitude": -5.3652
+  },
+  {
+    "id": 9,
+    "name": "Salé",
+    "nameAr": "سلا",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "Salé",
+    "population": 982163,
+    "postalCode": "11000",
+    "latitude": 34.0531,
+    "longitude": -6.7986
+  },
+  {
+    "id": 10,
+    "name": "Oujda",
+    "nameAr": "وجدة",
+    "region": "L'Oriental",
+    "province": "Oujda-Angad",
+    "population": 494252,
+    "postalCode": "60000",
+    "latitude": 34.6830,
+    "longitude": -1.9060
+  },
+  {
+    "id": 11,
+    "name": "Kénitra",
+    "nameAr": "القنيطرة",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "Kénitra",
+    "population": 431282,
+    "postalCode": "14000",
+    "latitude": 34.2610,
+    "longitude": -6.5802
+  },
+  {
+    "id": 12,
+    "name": "Mohammedia",
+    "nameAr": "المحمدية",
+    "region": "Casablanca-Settat",
+    "province": "Mohammedia",
+    "population": 208612,
+    "postalCode": "28810",
+    "latitude": 33.6861,
+    "longitude": -7.3828
+  },
+  {
+    "id": 13,
+    "name": "El Jadida",
+    "nameAr": "الجديدة",
+    "region": "Casablanca-Settat",
+    "province": "El Jadida",
+    "population": 194934,
+    "postalCode": "24000",
+    "latitude": 33.2627,
+    "longitude": -8.5014
+  },
+  {
+    "id": 14,
+    "name": "Béni Mellal",
+    "nameAr": "بني ملال",
+    "region": "Béni Mellal-Khénifra",
+    "province": "Béni Mellal",
+    "population": 192676,
+    "postalCode": "23000",
+    "latitude": 32.3345,
+    "longitude": -6.3499
+  },
+  {
+    "id": 15,
+    "name": "Safi",
+    "nameAr": "آسفي",
+    "region": "Marrakech-Safi",
+    "province": "Safi",
+    "population": 308508,
+    "postalCode": "46000",
+    "latitude": 32.2994,
+    "longitude": -9.2372
+  },
+  {
+    "id": 16,
+    "name": "Nador",
+    "nameAr": "الناظور",
+    "region": "L'Oriental",
+    "province": "Nador",
+    "population": 161726,
+    "postalCode": "62000",
+    "latitude": 35.1681,
+    "longitude": -2.9330
+  },
+  {
+    "id": 17,
+    "name": "Taza",
+    "nameAr": "تازة",
+    "region": "Fès-Meknès",
+    "province": "Taza",
+    "population": 143452,
+    "postalCode": "35000",
+    "latitude": 34.2208,
+    "longitude": -4.0093
+  },
+  {
+    "id": 18,
+    "name": "Khémisset",
+    "nameAr": "الخميسات",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "Khémisset",
+    "population": 131542,
+    "postalCode": "15000",
+    "latitude": 33.8231,
+    "longitude": -6.0659
+  },
+  {
+    "id": 19,
+    "name": "Larache",
+    "nameAr": "العرائش",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "province": "Larache",
+    "population": 125008,
+    "postalCode": "92000",
+    "latitude": 35.1793,
+    "longitude": -6.1541
+  },
+  {
+    "id": 20,
+    "name": "Khouribga",
+    "nameAr": "خريبكة",
+    "region": "Béni Mellal-Khénifra",
+    "province": "Khouribga",
+    "population": 196196,
+    "postalCode": "25000",
+    "latitude": 32.8865,
+    "longitude": -6.9092
+  }
+]
