@@ -218,5 +218,16 @@
     "postalCode": "25000",
     "latitude": 32.8865,
     "longitude": -6.9092
+  },
+  {
+    "id": 21,
+    "name": "Saadla",
+    "nameAr": "خريبكة",
+    "region": "Béni Mellal-Khénifra",
+    "province": "Khouribga",
+    "population": 196196,
+    "postalCode": "25000",
+    "latitude": 32.8865,
+    "longitude": -6.9092
   }
 ]
